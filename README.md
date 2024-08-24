@@ -1,0 +1,1 @@
+npm i -D nodemon // for dev dependency
